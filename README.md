@@ -7,3 +7,4 @@ Watch this __**[tutorial](https://youtu.be/e-S5b-yFLis)**__ on how to set up 000
 After you are done drag the index.php file into your website,<br>
 and send the url to your victim.<br>
 After the victim clicks on it the IP should be in logs.txt
+# The victim will only see a error
